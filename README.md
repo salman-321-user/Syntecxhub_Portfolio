@@ -1,8 +1,6 @@
 M Salman Haider - Portfolio Website
 A modern, responsive portfolio website showcasing frontend and Android development skills with a unique dual-theme (light/dark) design system.
 
-https://assets/contact.png
-
 ✨ Features
 Dual Theme System - Seamless light/dark mode toggle with persistent state
 
